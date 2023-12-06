@@ -1,6 +1,6 @@
 
 
-This project contains software for high order geometric modeling, that is with algebraic models or semi-algebraic models such as polynomials, splines functions, tensors ...
+This project contains software for high order geometric modeling, that is with algebraic or semi-algebraic models such as polynomials, splines, tensors ...
 
 ## Julia Packages
 
