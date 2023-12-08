@@ -3,13 +3,14 @@
 This project contains software for high order geometric modeling, that is with algebraic or semi-algebraic models such as polynomials, splines, tensors ...
 
 ## Julia Packages
+They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
 
 - [MomentTools.jl](https://algebraicgeometricmodeling.github.io/MomentTools.jl/)
-- AlgebraicSolvers.jl
-- MultivariateSeries.jl
-- TensorDec.jl
+- [AlgebraicSolvers.jl](https://algebraicgeometricmodeling.github.io/AlgebraicSolvers.jl/)
+- [MultivariateSeries.jl](https://algebraicgeometricmodeling.github.io/MultivariateSeries.jl/)
+- [TensorDec.jl](http://www-sop.inria.fr/members/Bernard.Mourrain/software/TensorDec/index.html)
 - SemiAlgebraicTypes.jl
-- Axl.jl
+- [Axl.jl](http://axl.inria.fr/doc/Axl.jl/)
 - [GSplines.jl](https://AlgebraicGeometricModeling.github.io/GSplines.jl/)
 
 ## IGA library
