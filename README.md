@@ -32,3 +32,4 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 
 - **GISMO**. Geometry and Simulation.
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://gismo.github.io/)
+[![](https://img.shields.io/badge/source-orange)](https://github.com/gismo)
