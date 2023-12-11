@@ -7,7 +7,7 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 
 - MomentTools.jl [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentTools.jl/) [[source]](https://github.com/AlgebraicGeometricModeling/MomentTools.jl/) 
 - AlgebraicSolvers.jl [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/)
-[![](https://img.shields.io/badge/source-8A2BE2)](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
 - MultivariateSeries.jl [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/) [[source]](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
 - TensorDec.jl  [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/TensorDec.jl/) [[source]](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
 - SemiAlgebraicTypes.jl [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/SemiAlgebraicTypes.jl/) 
