@@ -8,7 +8,7 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 - [MomentTools.jl](https://algebraicgeometricmodeling.github.io/MomentTools.jl/)
 - [AlgebraicSolvers.jl](https://algebraicgeometricmodeling.github.io/AlgebraicSolvers.jl/)
 - [MultivariateSeries.jl](https://algebraicgeometricmodeling.github.io/MultivariateSeries.jl/)
-- [TensorDec.jl](http://www-sop.inria.fr/members/Bernard.Mourrain/software/TensorDec/index.html)
+- [TensorDec.jl](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) http://www-sop.inria.fr/members/Bernard.Mourrain/software/TensorDec/index.html)
 - SemiAlgebraicTypes.jl
 - [Axl.jl](http://axl.inria.fr/doc/Axl.jl/)
 - [GSplines.jl](https://AlgebraicGeometricModeling.github.io/GSplines.jl/)
