@@ -20,12 +20,13 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 - SemiAlgebraicTypes.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/SemiAlgebraicTypes.jl/) 
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl) 
-- `Axl.jl` 
+- Axl.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](http://axl.inria.fr/doc/Axl.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/Axl.jl) 
-- `GSplines.jl` 
+- GSplines.jl
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/GSplines.jl/)
 
 ## IGA library
 
-- [GISMO](https://gismo.github.io/)
+- GISMO
+[![](https://img.shields.io/badge/docs-latest-blue.svg)](https://gismo.github.io/)
