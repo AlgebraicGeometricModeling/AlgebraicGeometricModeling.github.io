@@ -30,6 +30,5 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 
 ## IGA library
 
-- *GISMO*. Geometry and Simulation.
-
+- **GISMO**. Geometry and Simulation.
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://gismo.github.io/)
