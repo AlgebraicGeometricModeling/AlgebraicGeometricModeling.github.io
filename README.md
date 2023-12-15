@@ -7,24 +7,30 @@ and tools to create them, to compute with them, ...
 ## Julia Packages
 They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
 
+- AlgebraicSolvers.jl 
+[![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/)
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/AlgebraicSolvers.jl)
+
 - MomentTools.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentTools.jl/)
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentTools.jl/) 
-- AlgebraicSolvers.jl 
-[![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/)
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentTools.jl/)
+
 - MultivariateSeries.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/) 
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MultivariateSeries.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MultivariateSeries.jl)
+
 - TensorDec.jl
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/TensorDec.jl/) 
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/TensorDec.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/TensorDec.jl)
+
 - SemiAlgebraicTypes.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/SemiAlgebraicTypes.jl/) 
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/SemiAlgebraicTypes.jl)
+
 - Axl.jl 
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](http://axl.inria.fr/doc/Axl.jl/)
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/Axl.jl) 
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/Axl.jl)
+
 - GSplines.jl
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/GSplines.jl/)
 
