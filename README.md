@@ -2,7 +2,7 @@
 
 
 This project contains packages for Algebraic Computation and Geometric Modeling, that is for high order geometric modeling with algebraic or semi-algebraic models such as polynomials, splines, tensors ...
-and tools to create them, to compute with them, ...
+and for creating and computing with these models. 
 
 ## Julia Packages
 They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
