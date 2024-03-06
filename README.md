@@ -1,7 +1,5 @@
-## Algebraic Geometric Modeling
 
-Packages for Algebraic Computation and Geometric Modeling
-
+Packages for Algebraic Computation and Geometric Modeling.
 
 
 This project contains software for high order geometric modeling, that is with algebraic or semi-algebraic models such as polynomials, splines, tensors ...
