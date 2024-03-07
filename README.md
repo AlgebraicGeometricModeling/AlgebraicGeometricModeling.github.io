@@ -5,7 +5,8 @@ This project contains packages for Algebraic Computation and Geometric Modeling,
 and for creating and computing with these models. 
 
 ## Julia Packages
-They are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
+
+These packages are available at [github.com/AlgebraicGeometricModeling/](https://github.com/AlgebraicGeometricModeling/).
 
 - **AlgebraicSolvers.jl**: solvers of multivariate polynomial equations, using resultant constructions and computing truncated normal forms<br/>
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/)
@@ -40,4 +41,4 @@ They are available at [github.com/AlgebraicGeometricModeling/](https://github.co
 [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://gismo.github.io/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/gismo)
 
-[For more details see here](https://algebraicgeometricmodeling.github.io/)
+For more details, see [here](https://algebraicgeometricmodeling.github.io/).
