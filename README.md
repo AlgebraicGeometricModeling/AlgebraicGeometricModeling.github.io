@@ -34,6 +34,7 @@ These packages are available at [github.com/AlgebraicGeometricModeling/](https:/
 
 - **GSplines.jl**: geometrically smooth splines on quadrangular meshes<br/>
 [![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/GSplines.jl/)
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/GSplines.jl)
 
 ## IGA library
 
