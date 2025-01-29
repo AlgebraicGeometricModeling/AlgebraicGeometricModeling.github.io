@@ -12,9 +12,9 @@ These packages are available at [github.com/AlgebraicGeometricModeling/](https:/
 [![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/AlgebraicSolvers.jl/)
 [![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/AlgebraicSolvers.jl)
 
-- **MomentTools.jl**: solvers of polynomial optimization problems based on moment relaxations<br/>
-[![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentTools.jl/)
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentTools.jl/)
+- **MomentPolynomialOpt.jl**: solvers of polynomial optimization problems based on moment relaxations<br/>
+[![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentPolynomialOpt.jl/)
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentPolynomialOpt.jl/)
 
 - **MultivariateSeries.jl**: multivariate series to represent and compute with series of pseudo-moments and dual linear functionals on polynomials<br/>
 [![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/) 
