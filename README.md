@@ -15,7 +15,7 @@ These packages are available at [github.com/AlgebraicGeometricModeling/](https:/
 
 - **MomentPolynomialOpt.jl**: solvers for polynomial optimization problems and generalized moment problems, using SDP solvers<br/>
 [![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/MomentPolynomialOpt.jl/)
-[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentPolynomialOpt.jl/)
+[![](https://img.shields.io/badge/source-orange)](https://github.com/AlgebraicGeometricModeling/MomentPolynomialOpt.jl/) 
 
 - **MultivariateSeries.jl**: multivariate series to represent and compute with series of pseudo-moments and dual linear functionals on polynomials<br/>
 [![](https://img.shields.io/badge/docs-blue.svg)](https://AlgebraicGeometricModeling.github.io/MultivariateSeries.jl/) 
